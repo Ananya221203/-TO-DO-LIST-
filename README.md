@@ -1,2 +1,2 @@
 # -TO-DO-LIST-
-hey! its a to list to manage all your daily tasks 
+hey! its a to do list to manage all your daily tasks 
